@@ -6,7 +6,7 @@ This repository stores copies of Jupyter notebooks, slides, and data that are us
 
 The following schedule should be used as a guide for keeping in time for turning work in.  This is a self-paced class for the most part, however, and the notebooks are meant to be interactive --- you should be filling in blanks in the text and in the code, and answering questions throughout each notebook. There is an associated Google Classroom on which I will provide feedback and grades for the completed notebooks.
 
-* Monday, October 23rd: Class canceled.  You should read and follow *00 - Pre-class.ipynb*.  Send me an email if you run into trouble, come to my office hours that week, or go see our class tutor.
+* Monday, October 23rd: Class canceled.  Get started with *00 - Pre-class.ipynb*.  
 * Wednesday, October 25th: Symposium day.  No class.  Read Chapters 1-3 in our textbook.
 * Friday, October 27th: First day in-class.  *01 - Using_Jupyter.ipynb*.
 * Monday, October 30th: *02 - Getting_Familiar_w_Python.ipynb*.
