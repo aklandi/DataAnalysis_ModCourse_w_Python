@@ -21,5 +21,5 @@ The following schedule should be used as a guide for keeping in time for turning
 * Monday, November 20th - Friday, November 24th: Break
 * Monday, November 27th: TBD
 * Wednesday, November 29th: TBD
-* Friday, December 1st: TBD
-* Monday, Dec 4th - Wednesday, Dec 13th: Final Projects
+* Friday, Dec 1st - Wednesday, Dec 6th: Work on project.
+* Friday, Dec 8th - Wednesday, Dec 13th: Presentations.
