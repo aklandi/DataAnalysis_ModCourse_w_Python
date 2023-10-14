@@ -4,10 +4,22 @@ This repository stores copies of Jupyter notebooks, slides, and data that are us
 
 **For Fall 2023**
 
-The following schedule should be used as a guide for keeping in time for turning work in.  There is an associated Google Classroom on which I will provide feedback and grades.
+The following schedule should be used as a guide for keeping in time for turning work in.  This is a self-paced class for the most part, however, and the notebooks are meant to be interactive --- you should be filling in blanks in the text and in the code, and answering questions throughout each notebook. There is an associated Google Classroom on which I will provide feedback and grades for the completed notebooks.
 
-* Monday, October 23rd: Class canceled.  You should read and follow '00 - Pre-class.ipynb'.  Send me an email if you run into trouble, or go see our class tutor, Cathy Zhang.
-* Wednesday, October 25th: Symposium day.  Class canceled.  You should read and follow '00 - Pre-class.ipynb'.  
-* Friday, October 27th: First day in-class.  '01 - Using_Jupyter.ipynb'.
-* Monday, October 30th: '02 - Getting_Familiar_w_Python.ipynb'.
-* Wednesday, November 1st: '03 - Getting_Familiar_w_Python_continued.ipynb'.
+* Monday, October 23rd: Class canceled.  You should read and follow *00 - Pre-class.ipynb*.  Send me an email if you run into trouble, come to my office hours that week, or go see our class tutor.
+* Wednesday, October 25th: Symposium day.  No class.  Read Chapters 1-3 in our textbook.
+* Friday, October 27th: First day in-class.  *01 - Using_Jupyter.ipynb*.
+* Monday, October 30th: *02 - Getting_Familiar_w_Python.ipynb*.
+* Wednesday, November 1st: *03 - Getting_Familiar_w_Python_continued.ipynb*.
+* Friday, November 3rd: *04 - Numpy_Arrays.ipynb*.
+* Monday, November 6th: *05 - Pandas_DataFrames.ipynb*.
+* Wednesday, November 8th: *06 - Pandas_DataFrames_pt2.ipynb*.
+* Friday, November 10th: *07 - Advanced_Cleaning_Techniques.ipynb*.
+* Monday, November 13th: *08 - Modeling_Techniques.ipynb*.
+* Wednesday, November 15th: *09 - Data_Viz_FTW.ipynb*.
+* Friday, November 17th: *10 - Movie_Lens_DA_Notebook.ipynb*.
+* Monday, November 20th - Friday, November 24th: Break
+* Monday, November 27th: TBD
+* Wednesday, November 29th: TBD
+* Friday, December 1st: TBD
+* Monday, Dec 4th - Wednesday, Dec 13th: Final Projects
