@@ -17,9 +17,9 @@ The following schedule should be used as a guide for keeping in time for turning
 * Friday, November 10th: *07 - Advanced_Cleaning_Techniques.ipynb*.
 * Monday, November 13th: *08 - Modeling_Techniques.ipynb*.
 * Wednesday, November 15th: *09 - Modeling_Techniques_pt2.ipynb*.
-* Friday, November 17th: *10 - Data_Viz_FTW.ipynb*.
+* Friday, November 17th: A Demo of Exploration and Analysis with *11 - Movie_Lens_DA_Notebook.ipynb*.
 * Monday, November 20th - Friday, November 24th: Break
-* Monday, November 27th: *Movie_Lens_DA_Notebook.ipynb*.
-* Wednesday, November 29th: TBD
+* Monday, November 27th: Lecture on Developing Research Questions
+* Wednesday, November 29th: *10 - Data_Viz_FTW.ipynb*
 * Friday, Dec 1st - Wednesday, Dec 6th: Work on project.
 * Friday, Dec 8th - Wednesday, Dec 13th: Presentations.
